@@ -17,7 +17,7 @@ In Terminal
     2. sudo apt-get install python3-pip
 
 * Fork the Repository:
-    1. git clone ---
+    1. git clone https://github.com/arunkkhatri/currency_convertor.git
 
 * cd into the cloned repository and install & activate virtual environment:
     1. cd currency_convertor
